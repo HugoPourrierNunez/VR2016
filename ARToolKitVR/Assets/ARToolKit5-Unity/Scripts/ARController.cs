@@ -1581,7 +1581,7 @@ public class ARController : MonoBehaviour
 		}		
 #endif
 */
-        myCamera.pixelRect = getViewport(_videoWidth0, _videoHeight0, false, ARCamera.ViewEye.Left);
+        //myCamera.pixelRect = getViewport(_videoWidth0, _videoHeight0, false, ARCamera.ViewEye.Left);
         return true;
 	}
 
