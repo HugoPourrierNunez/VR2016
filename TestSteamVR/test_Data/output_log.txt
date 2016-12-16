@@ -1,0 +1,359 @@
+Mono path[0] = 'C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/test_Data/Managed'
+Mono path[1] = 'C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/test_Data/Mono'
+Mono config path = 'C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/test_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/test_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55183
+Multi-casting "[IP] 192.168.1.12 [Port] 55183 [Flags] 2 [Guid] 2185382261 [EditorId] 528370375 [Version] 1048832 [Id] WindowsPlayer(User-PC) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55183]
+PlayerConnection already initialized - listening to [0.0.0.0:55183]
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_PathRegistryNotFound: "Installation path could not be located (110)"!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/VR/OpenVR/OpenVR.cpp Line: 959)
+
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     4011 MB
+    Driver:   10.18.13.5354
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.062 seconds
+Platform assembly: C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_PathRegistryNotFound: "Installation path could not be located (110)"!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/VR/OpenVR/OpenVR.cpp Line: 959)
+
+VR: OpenVR Error! OpenVR failed initialization with error code VRInitError_Init_PathRegistryNotFound: "Installation path could not be located (110)"!
+ 
+(Filename: C:/buildslave/unity/build/Runtime/VR/OpenVR/OpenVR.cpp Line: 959)
+
+UnloadTime: 0.930325 ms
+ARController: ARToolKit version 5.3.2 initialised.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARController:Awake() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:325)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+ARController (native): [info]Added marker (UID=0), total markers loaded: 1.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARNativePlugin:arwAddMarker(String)
+PluginFunctions:arwAddMarker(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\PluginFunctions.cs:429)
+ARMarker:Load() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARMarker.cs:268)
+ARMarker:OnEnable() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARMarker.cs:158)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+ARController: Starting AR.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARController:StartAR() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:489)
+ARController:Start() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:374)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+ARController: Render device: Direct3D 11.0 [level 11.0], using Unity texturing.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARController:StartAR() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:499)
+ARController:Start() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:374)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+ARController: Starting ARToolKit video with vconf '-showDialog -flipV'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARController:StartAR() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:583)
+ARController:Start() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:374)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+ARController (native): [info]ARController::startRunning(): called, start running
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARNativePlugin:arwStartRunningB(String, Byte[], Int32, Single, Single)
+PluginFunctions:arwStartRunningB(String, Byte[], Int32, Single, Single) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\PluginFunctions.cs:114)
+ARController:StartAR() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:585)
+ARController:Start() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:374)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+ARController (native): [info]Setting video configuration '-showDialog -flipV'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARNativePlugin:arwStartRunningB(String, Byte[], Int32, Single, Single)
+PluginFunctions:arwStartRunningB(String, Byte[], Int32, Single, Single) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\PluginFunctions.cs:114)
+ARController:StartAR() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:585)
+ARController:Start() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:374)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+ARController (native): [info]Settting camera parameters buffer: 176 bytes.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARNativePlugin:arwStartRunningB(String, Byte[], Int32, Single, Single)
+PluginFunctions:arwStartRunningB(String, Byte[], Int32, Single, Single) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\PluginFunctions.cs:114)
+ARController:StartAR() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:585)
+ARController:Start() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:374)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+ARController (native): [info]Opening ARToolKit video using configuration '-showDialog -flipV'.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARNativePlugin:arwStartRunningB(String, Byte[], Int32, Single, Single)
+PluginFunctions:arwStartRunningB(String, Byte[], Int32, Single, Single) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\PluginFunctions.cs:114)
+ARController:StartAR() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:585)
+ARController:Start() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:374)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+ARController (native): [info]Opened ARToolKit video 640x480@3Bpp (AR_PIXEL_FORMAT_BGR).
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARNativePlugin:arwStartRunningB(String, Byte[], Int32, Single, Single)
+PluginFunctions:arwStartRunningB(String, Byte[], Int32, Single, Single) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\PluginFunctions.cs:114)
+ARController:StartAR() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:585)
+ARController:Start() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:374)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+ARController (native): [info]Camera parameters loaded from buffer.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARNativePlugin:arwStartRunningB(String, Byte[], Int32, Single, Single)
+PluginFunctions:arwStartRunningB(String, Byte[], Int32, Single, Single) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\PluginFunctions.cs:114)
+ARController:StartAR() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:585)
+ARController:Start() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:374)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR;C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'User'
+OS-Version: 10.0.14393 () 0x100-0x1
+C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test.exe:test.exe (00007FF65CE20000), size: 27250688 (result: 0), SymType: '-exported-', PDB: 'C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test.exe', fileVersion: 5.5.0.46319
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFCD7670000), size: 1904640 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFCD6E20000), size: 700416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNEL32.DLL', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFCD4230000), size: 2215936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNELBASE.dll', fileVersion: 10.0.14393.321
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFCD4D20000), size: 1462272 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\USER32.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFCD41A0000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\win32u.dll', fileVersion: 10.0.14393.51
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFCD4BE0000), size: 212992 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\GDI32.dll', fileVersion: 10.0.14393.206
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFCD4010000), size: 1581056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\gdi32full.dll', fileVersion: 10.0.14393.206
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFCD6ED0000), size: 1273856 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ole32.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FFCD7380000), size: 2912256 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\combase.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFCD3E60000), size: 1003520 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ucrtbase.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFCD7010000), size: 1183744 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\RPCRT4.dll', fileVersion: 10.0.14393.82
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFCD41C0000), size: 434176 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\bcryptPrimitives.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFCD7210000), size: 364544 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\sechost.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFCD7270000), size: 335872 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHLWAPI.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFCD4E90000), size: 647168 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcrt.dll', fileVersion: 7.0.14393.0
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFCD50C0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\PSAPI.DLL', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFCD72D0000), size: 663552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ADVAPI32.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFCD50D0000), size: 22056960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHELL32.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFCD29A0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFCD4450000), size: 270336 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\cfgmgr32.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\windows.storage.dll:windows.storage.dll (00007FFCD4500000), size: 7184384 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\windows.storage.dll', fileVersion: 10.0.14393.206
+C:\WINDOWS\System32\powrprof.dll:powrprof.dll (00007FFCD3AD0000), size: 311296 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\powrprof.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\kernel.appcore.dll:kernel.appcore.dll (00007FFCD3B30000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\kernel.appcore.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFCD3B40000), size: 692224 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\shcore.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\profapi.dll:profapi.dll (00007FFCD3AB0000), size: 81920 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\System32\profapi.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFCD4F30000), size: 434176 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WS2_32.dll', fileVersion: 10.0.14393.206
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFCD5000000), size: 782336 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\OLEAUT32.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFCD3DC0000), size: 638976 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcp_win.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFCCF410000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FFCD7140000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\IMM32.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFCA8110000), size: 1191936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFCD1E60000), size: 143360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFCD30C0000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DNSAPI.dll', fileVersion: 10.0.14393.206
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFCD3070000), size: 229376 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\NSI.dll:NSI.dll (00007FFCD71F0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\NSI.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFCCD1B0000), size: 839680 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFCCA720000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\DDRAW.dll:DDRAW.dll (00007FFCA7DC0000), size: 1011712 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DDRAW.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (00007FFCD1E00000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMMBASE.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\DCIMAN32.dll:DCIMAN32.dll (00007FFCCD4D0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DCIMAN32.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFCD2200000), size: 610304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\uxtheme.dll', fileVersion: 10.0.14393.0
+C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Mono\mono.dll:mono.dll (00007FFC99450000), size: 2998272 (result: 0), SymType: '-exported-', PDB: 'C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FFCD32E0000), size: 376832 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSWSOCK.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFCCE200000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFCCE2B0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL', fileVersion: 10.0.14393.0
+C:\WINDOWS\system32\NLAapi.dll:NLAapi.dll (00007FFCD13C0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\NLAapi.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\system32\napinsp.dll:napinsp.dll (00007FFCC1BA0000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\napinsp.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\system32\pnrpnsp.dll:pnrpnsp.dll (00007FFCC1BC0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\pnrpnsp.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\winrnr.dll:winrnr.dll (00007FFCC1BE0000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\winrnr.dll', fileVersion: 10.0.14393.0
+C:\Program Files\Bonjour\mdnsNSP.dll:mdnsNSP.dll (00000000750C0000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files\Bonjour\mdnsNSP.dll', fileVersion: 3.0.0.10
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFCD65E0000), size: 1421312 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MSCTF.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\system32\dwmapi.dll:dwmapi.dll (00007FFCD18E0000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\dwmapi.dll', fileVersion: 10.0.14393.206
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFCD0F00000), size: 2842624 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d11.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFCD2A40000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxgi.dll', fileVersion: 10.0.14393.0
+C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Plugins\openvr_api.dll:openvr_api.dll (00007FFCAE6A0000), size: 323584 (result: 0), SymType: '-exported-', PDB: 'C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Plugins\openvr_api.dll'
+C:\WINDOWS\SYSTEM32\nvwgf2umx.dll:nvwgf2umx.dll (00007FFCCF420000), size: 18472960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\nvwgf2umx.dll', fileVersion: 10.18.13.5354
+C:\WINDOWS\SYSTEM32\bcrypt.dll:bcrypt.dll (00007FFCD39F0000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\bcrypt.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (00007FFCD6740000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFCC3500000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\wbem\wbemprox.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFCC8040000), size: 520192 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wbemcomn.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFCC00A0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\wbem\wbemsvc.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (00007FFCC17F0000), size: 999424 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\wbem\fastprox.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (00007FFCCD280000), size: 462848 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MMDevApi.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\DEVOBJ.dll:DEVOBJ.dll (00007FFCD2740000), size: 163840 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DEVOBJ.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\PROPSYS.dll:PROPSYS.dll (00007FFCD1750000), size: 1593344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\PROPSYS.dll', fileVersion: 7.0.14393.0
+C:\WINDOWS\SYSTEM32\wdmaud.drv:wdmaud.drv (00007FFCCC000000), size: 258048 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wdmaud.drv', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\ksuser.dll:ksuser.dll (00007FFCCB700000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ksuser.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\AVRT.dll:AVRT.dll (00007FFCD0930000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AVRT.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFCCC4E0000), size: 606208 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AUDIOSES.DLL', fileVersion: 10.0.14393.351
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFCD0980000), size: 1269760 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wintypes.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\SYSTEM32\msacm32.drv:msacm32.drv (00007FFCD1FB0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msacm32.drv', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\MSACM32.dll:MSACM32.dll (00007FFCCB8D0000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSACM32.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\midimap.dll:midimap.dll (00007FFCD16D0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\midimap.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFCD69F0000), size: 4362240 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SETUPAPI.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFCD3580000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTSP.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFCD3460000), size: 208896 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\rsaenh.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\CRYPTBASE.dll:CRYPTBASE.dll (00007FFCD35A0000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTBASE.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFCC8D70000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\rasadhlp.dll', fileVersion: 10.0.14393.0
+C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Plugins\ARWrapper.dll:ARWrapper.dll (00007FFCA7D00000), size: 733184 (result: 0), SymType: '-exported-', PDB: 'C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Plugins\ARWrapper.dll'
+C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Plugins\ARvideo.dll:ARvideo.dll (0000000180000000), size: 417792 (result: 0), SymType: '-exported-', PDB: 'C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Plugins\ARvideo.dll'
+C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Plugins\pthreadVC2.dll:pthreadVC2.dll (00007FFCB07B0000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Plugins\pthreadVC2.dll', fileVersion: 2.9.1.0
+C:\WINDOWS\SYSTEM32\MSVCP120.dll:MSVCP120.dll (00007FFCC55D0000), size: 679936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSVCP120.dll', fileVersion: 12.0.21005.1
+C:\WINDOWS\SYSTEM32\MSVCR120.dll:MSVCR120.dll (00007FFCC5680000), size: 978944 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MSVCR120.dll', fileVersion: 12.0.21005.1
+C:\WINDOWS\SYSTEM32\MF.dll:MF.dll (00007FFCAC8C0000), size: 598016 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MF.dll', fileVersion: 10.0.14393.187
+C:\WINDOWS\SYSTEM32\MFPlat.DLL:MFPlat.DLL (00007FFCC9DA0000), size: 1474560 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MFPlat.DLL', fileVersion: 10.0.14393.351
+C:\WINDOWS\SYSTEM32\MFReadWrite.dll:MFReadWrite.dll (00007FFCCA200000), size: 868352 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MFReadWrite.dll', fileVersion: 10.0.14393.206
+C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Plugins\DSVL.dll:DSVL.dll (00000000049F0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\test_Data\Plugins\DSVL.dll'
+C:\WINDOWS\SYSTEM32\MFCORE.DLL:MFCORE.DLL (00007FFCA1630000), size: 4108288 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MFCORE.DLL', fileVersion: 10.0.14393.351
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFCD3BF0000), size: 1871872 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\CRYPT32.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\System32\MSASN1.dll:MSASN1.dll (00007FFCD3B20000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MSASN1.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\QUARTZ.dll:QUARTZ.dll (00007FFC9A800000), size: 1847296 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\QUARTZ.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\RTWorkQ.DLL:RTWorkQ.DLL (00007FFCCA860000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\RTWorkQ.DLL', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFCCCDA0000), size: 434176 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\fwpuclnt.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\devenum.dll:devenum.dll (00007FFCAFB50000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\devenum.dll', fileVersion: 10.0.14393.206
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFCD2EC0000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntmarta.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\WINTRUST.dll:WINTRUST.dll (00007FFCD44A0000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WINTRUST.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\SYSTEM32\msdmo.dll:msdmo.dll (00007FFCCB020000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msdmo.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\mfksproxy.dll:mfksproxy.dll (00007FFCAD600000), size: 294912 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\mfksproxy.dll', fileVersion: 10.0.14393.351
+C:\Windows\System32\ATL.DLL:ATL.DLL (00007FFCC3410000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ATL.DLL', fileVersion: 3.5.2284.0
+C:\Windows\System32\MFSENSORGROUP.dll:MFSENSORGROUP.dll (00007FFCCA750000), size: 319488 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MFSENSORGROUP.dll', fileVersion: 10.0.14393.351
+C:\Windows\System32\ksproxy.ax:ksproxy.ax (00007FFCABD20000), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ksproxy.ax', fileVersion: 10.0.14393.0
+C:\Windows\System32\d3d9.dll:d3d9.dll (00007FFCC6100000), size: 1626112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\d3d9.dll', fileVersion: 10.0.14393.351
+C:\WINDOWS\SYSTEM32\policymanager.dll:policymanager.dll (00007FFCCC490000), size: 274432 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\policymanager.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\msvcp110_win.dll:msvcp110_win.dll (00007FFCD2470000), size: 593920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\msvcp110_win.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\vidcap.ax:vidcap.ax (00007FFCCA5C0000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\vidcap.ax', fileVersion: 10.0.14393.0
+C:\Windows\System32\kswdmcap.ax:kswdmcap.ax (00007FFCAF8E0000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\kswdmcap.ax', fileVersion: 10.0.14393.0
+C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.14393.351_none_4213128bc687e6d3\COMCTL32.dll:COMCTL32.dll (00007FFCCD9E0000), size: 2596864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.14393.351_none_4213128bc687e6d3\COMCTL32.dll', fileVersion: 6.10.14393.351
+C:\Windows\System32\MFC42.dll:MFC42.dll (00007FFC998F0000), size: 1454080 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MFC42.dll', fileVersion: 6.6.8063.0
+C:\Windows\System32\ODBC32.dll:ODBC32.dll (00007FFCA1E20000), size: 716800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ODBC32.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\DPAPI.dll:DPAPI.dll (00007FFCD2F30000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\DPAPI.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\qedit.dll:qedit.dll (00007FFC99840000), size: 667648 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\qedit.dll', fileVersion: 10.0.14393.206
+C:\WINDOWS\System32\COMDLG32.dll:COMDLG32.dll (00007FFCD4C20000), size: 1024000 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\COMDLG32.dll', fileVersion: 10.0.14393.0
+C:\Windows\System32\MSVFW32.dll:MSVFW32.dll (00007FFCAF700000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\MSVFW32.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.14393.321_none_72fe05dd211a5fae\gdiplus.dll:gdiplus.dll (00007FFCCD7E0000), size: 1679360 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.14393.321_none_72fe05dd211a5fae\gdiplus.dll', fileVersion: 10.0.14393.321
+C:\WINDOWS\system32\LVUI64.dll:LVUI64.dll (0000000004AE0000), size: 790528 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\LVUI64.dll', fileVersion: 13.80.853.0
+C:\WINDOWS\system32\LVUIRC64.DLL:LVUIRC64.DLL (000000000E530000), size: 573440 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\system32\LVUIRC64.DLL', fileVersion: 13.80.853.0
+C:\Windows\System32\ActXPrxy.dll:ActXPrxy.dll (00007FFCC6610000), size: 3559424 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\ActXPrxy.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\edputil.dll:edputil.dll (00007FFCC6A10000), size: 270336 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\edputil.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\urlmon.dll:urlmon.dll (00007FFCC3900000), size: 1843200 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\urlmon.dll', fileVersion: 11.0.14393.351
+C:\WINDOWS\SYSTEM32\iertutil.dll:iertutil.dll (00007FFCC9900000), size: 2760704 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\iertutil.dll', fileVersion: 11.0.14393.351
+C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFCD3780000), size: 180224 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SspiCli.dll', fileVersion: 10.0.14393.187
+C:\WINDOWS\SYSTEM32\pcacli.dll:pcacli.dll (00007FFCCE040000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\pcacli.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\MPR.dll:MPR.dll (00007FFCBD920000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\MPR.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\System32\sfc_os.dll:sfc_os.dll (00007FFCC6A60000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\sfc_os.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\DEVRTL.dll:DEVRTL.dll (00007FFCCD580000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\DEVRTL.dll', fileVersion: 10.0.14393.0
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFCC3270000), size: 1646592 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 10.0.14321.1024
+
+========== OUTPUTING STACK TRACE ==================
+
+0x00007FFCD776E585 (ntdll) TpDbgDumpHeapUsage
+0x00007FFCD773099D (ntdll) memset
+0x00007FFCD76BE966 (ntdll) TpSetWaitEx
+0x00007FFCD7685065 (ntdll) WinSqmCommonDatapointSetDWORD64
+0x00007FFCD76BE210 (ntdll) TpSetWait
+0x00007FFCD76A3123 (ntdll) RtlReleaseSRWLockExclusive
+0x00007FFCD6E28364 (KERNEL32) BaseThreadInitThunk
+0x00007FFCD76D5E91 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+ARController: Setting ARToolKit tracking settings.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARController:StartAR() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:606)
+ARController:Start() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:374)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+AROrigin: Found 1 markers eligible to become base marker.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+AROrigin:FindMarkers() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\AROrigin.cs:110)
+AROrigin:Start() (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\AROrigin.cs:116)
+ 
+(Filename: C:/Users/User/Documents/GitHub/Projet VR/VR2016/TestSteamVR/Assets/ARToolKit5-Unity/Scripts/ARController.cs Line: 1632)
+
+ARController: UpdateAR: Waiting for ARToolKit video.
+UnityEngine.DebugLogHandler:Internal_Log(LogType, String, Object)
+UnityEngine.DebugLogHandler:LogFormat(LogType, Object, String, Object[])
+UnityEngine.Logger:Log(LogType, Object)
+UnityEngine.Debug:Log(Object)
+ARController:Log(String) (at C:\Users\User\Documents\GitHub\Projet VR\VR2016\TestSteamVR\Assets\ARToolKit5-Unity\Scripts\ARController.cs:1632)
+ARController:UpdateAR() (at C:\Users\User\Documents\GitHub\Pro

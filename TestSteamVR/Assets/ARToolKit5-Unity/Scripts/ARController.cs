@@ -655,7 +655,9 @@ public class ARController : MonoBehaviour
 					if (ContentFlipH) _videoProjectionMatrix0 = Matrix4x4.TRS(Vector3.zero, Quaternion.identity, new Vector3(-1.0f, 1.0f, 1.0f)) * _videoProjectionMatrix0;
 
 					_videoBackgroundMeshGO0 = CreateVideoBackgroundMesh(0, _videoWidth0, _videoHeight0, BackgroundLayer0, out _videoColorArray0, out _videoColor32Array0, out _videoTexture0, out _videoMaterial0);
-					if (_videoBackgroundMeshGO0 == null || _videoTexture0 == null || _videoMaterial0 == null) {
+                    //_videoBackgroundMeshGO0.tag = "MainCamera";
+                  
+                    if (_videoBackgroundMeshGO0 == null || _videoTexture0 == null || _videoMaterial0 == null) {
 						Log (LogTag + "Error: unable to create video mesh.");
 					}
 
@@ -682,7 +684,8 @@ public class ARController : MonoBehaviour
 
 					_videoBackgroundMeshGO0 = CreateVideoBackgroundMesh(0, _videoWidth0, _videoHeight0, BackgroundLayer0, out _videoColorArray0, out _videoColor32Array0, out _videoTexture0, out _videoMaterial0);
 					_videoBackgroundMeshGO1 = CreateVideoBackgroundMesh(1, _videoWidth1, _videoHeight1, BackgroundLayer1, out _videoColorArray1, out _videoColor32Array1, out _videoTexture1, out _videoMaterial1);
-					if (_videoBackgroundMeshGO0 == null || _videoTexture0 == null || _videoMaterial0 == null || _videoBackgroundMeshGO1 == null || _videoTexture1 == null || _videoMaterial1 == null) {
+              
+                    if (_videoBackgroundMeshGO0 == null || _videoTexture0 == null || _videoMaterial0 == null || _videoBackgroundMeshGO1 == null || _videoTexture1 == null || _videoMaterial1 == null) {
 						Log (LogTag + "Error: unable to create video background mesh.");
 					}
 				}
@@ -697,6 +700,7 @@ public class ARController : MonoBehaviour
 					// Mono display.
 					// Use only first video source, regardless of whether VideoIsStereo.
 					// (The case where stereo video source is used with a mono display is not likely to be common.)
+                    //_videoBackgroundCamera0.tag = "MainCamera";
 					_videoBackgroundCameraGO0 = CreateVideoBackgroundCamera("Video background", BackgroundLayer0, out _videoBackgroundCamera0);
 					if (_videoBackgroundCameraGO0 == null || _videoBackgroundCamera0 == null) {
 						Log (LogTag + "Error: unable to create video background camera.");
@@ -1338,7 +1342,7 @@ public class ARController : MonoBehaviour
 		vbc.transform.position = new Vector3(0.0f, 0.0f, 0.0f);
 		vbc.transform.rotation = new Quaternion(0.0f, 0.0f, 0.0f, 1.0f);
 		vbc.transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
-		
+        vbc.tag = "MainCamera";
 		// Clear everything as the video is the background.
 		//vbc.clearFlags = CameraClearFlags.SolidColor;
 		//vbc.backgroundColor = Color.black;
