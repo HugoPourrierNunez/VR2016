@@ -23,8 +23,6 @@ public class GuessWord : MonoBehaviour
 
     public void GenerateLetters(string word)
     {
-
-        Debug.Log(word);
         wordToGuess = word;
 
         text.text = string.Empty;
@@ -35,7 +33,6 @@ public class GuessWord : MonoBehaviour
         {
             lettersToShuffle += letters[UnityEngine.Random.Range(0, 26)];
         }
-        Debug.Log(lettersToShuffle);
 
         System.Random num = new System.Random();
         lettersToPick = new string(lettersToShuffle.ToCharArray().

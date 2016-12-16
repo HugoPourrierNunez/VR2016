@@ -34,14 +34,15 @@ public class EnterWord : MonoBehaviour {
 
     public void ValidateWord()
     {
-        animator.SetBool("enterWord", false);
-        animator.SetBool("guessWord", true);
-
-        gameLogic.SetWordToGuess(tmpWord);
-        guessWord.GenerateLetters(tmpWord);
-
+        word.text = string.Empty;
+        string THEword = tmpWord;
         tmpWord = string.Empty;
-        word.text = tmpWord;
+
+        animator.SetBool("enterWord", false);
+        animator.SetBool("guess", true);
+
+        gameLogic.SetWordToGuess(THEword);
+        guessWord.GenerateLetters(THEword);
     }
 
     public void DeleteLetter()

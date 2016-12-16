@@ -33,12 +33,24 @@ public class GameLogic : MonoBehaviour
     public void StartGame()
     {
         animator.SetBool("startMenu", false);
+        animator.SetBool("draw", true);
+    }
+
+    public void Draw()
+    {
+        animator.SetBool("draw", false);
         animator.SetBool("enterWord", true);
     }
 
     public void SetWordToGuess(string word)
     {
         wordToGuess = word;
+    }
+
+    public void Guess()
+    {
+        animator.SetBool("guess", false);
+        animator.SetBool("guessWord", true);
     }
 
     public void GuessWord()
@@ -86,6 +98,9 @@ public class GameLogic : MonoBehaviour
     public void RestartGame()
     {
         animator.SetBool("restartMenu", false);
-        animator.SetBool("enterWord", true);
+        animator.SetBool("draw", true);
+        DrawScript myDrawScript = new DrawScript();
+
+        myDrawScript.ResetTexture();
     }
 }
